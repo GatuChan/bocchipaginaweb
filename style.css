@@ -1,17 +1,27 @@
 
 /**GENERAL */
-
-
-    
+html{
+    font-family: comic sans ms;
+    margin: 0%;
+    overflow-x:hidden;
+}
+body{
+    font-family: comic sans ms;
+    margin: 0%;
+    overflow-x:hidden;
 }
 /**PC */
 @media (min-width: 600px){
     body{
-    font-family: comic sans ms;
-    margin: 0%;
-    overflow-x:hidden;
+        font-family: comic sans ms;
+        margin: 0%;
+        overflow-x:hidden;
     }
-}
+    html{
+        font-family: comic sans ms;
+        margin: 0%;
+        overflow-x:hidden;
+    }
     .titlebocchi{
         background-color: #fc2390;
         text-align: center;
@@ -116,12 +126,16 @@
 
 /**MOBILE */
 @media (max-width: 600px){
-   body{
-    font-family: comic sans ms;
-    margin: 0%;
-    overflow-x:hidden;
-   }
-}
+    body{
+        font-family: comic sans ms;
+        margin: 0%;
+        overflow-x:hidden;
+    }
+    html{
+        font-family: comic sans ms;
+        margin: 0%;
+        overflow-x:hidden;
+    }
     .titlebocchi{
         background-color: #fc2390;
         text-align: center;
