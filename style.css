@@ -35,7 +35,8 @@ body{
         background-color: #f7aabd;
     }
     .imgbocchi{
-        margin:auto;
+        margin-left:41.5%;
+        margin-right:58.5%;
         display: flex;
         width:20%;
     }
@@ -54,7 +55,8 @@ body{
         background-color: #de4a57;
     }
     .imgkita{
-        margin:auto;
+        margin-left:41.5%;
+        margin-right:58.5%;
         display: flex;
         width:20%;
     }
@@ -74,7 +76,8 @@ body{
         background-color: #f0d56b;
     }
     .imgnijika{
-        margin:auto;
+        margin-left:41.5%;
+        margin-right:58.5%;
         display: flex;
         width:20%;
     }
@@ -93,7 +96,8 @@ body{
         background-color: #456bab;
     }
     .imgryo{
-        margin:auto;
+        margin-left:41.5%;
+        margin-right:58.5%;
         display: flex;
         width:20%;
     }
